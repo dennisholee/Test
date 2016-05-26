@@ -1,0 +1,10 @@
+{
+	"title" : "Task",
+	"components" : [
+			{ "label" : "Summary", "widget" : "TextField" },
+			{ "label" : "Description", "widget" : "TextArea" },
+			{ "label" : "Status", "widget" : "Select" },
+			{ "label" : "Priority", "widget" : "Select" },
+			{ "label" : "Save", "widget" : "Button" }
+		]
+}
